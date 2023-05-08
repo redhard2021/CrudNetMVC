@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRUDCORE
+build_property.RootNamespace = CRUDCORE
+build_property.ProjectDir = I:\Proyectos Personales\.net\CRUDCORE\CRUDCORE\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = I:\Proyectos Personales\.net\CRUDCORE\CRUDCORE
+build_property._RazorSourceGeneratorDebug = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Main/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Main/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Main/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Main/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Main/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Main/Technologies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxUZWNobm9sb2dpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/Proyectos Personales/.net/CRUDCORE/CRUDCORE/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ebh3fj4uyr
